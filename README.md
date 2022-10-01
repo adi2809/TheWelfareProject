@@ -6,7 +6,7 @@ The constraints used right now include:
 1. budget constraint - 1 cosntraint 
 2. envy constraint for all pairs of agents - $(n^{2} - n)$ constraints
 3. assignment constraint for all the items - $m$ constraints
-4. optional constraint of each subsidy to be in range 0 to 1 - $ n $ constraints 
+4. optional constraint of each subsidy to be in range 0 to 1 - $n$ constraints 
 
 
 The tool can be used to get the final allocation, objective, subsidies. 
